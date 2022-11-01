@@ -7,8 +7,7 @@
 ### About Me:
 Just starting to branch my skills from making spreadsheets..
 
-Developing an open-source Learning portal
-Creating QGIS python plugins
+Currently developing an open-source Learning portal and creating QGIS python plugins
 
 ### Languages + Tools
 
