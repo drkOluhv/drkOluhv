@@ -5,7 +5,10 @@
 
 
 ### About Me:
-Just starting to branch my skills from making spreadsheets
+Just starting to branch my skills from making spreadsheets..
+Current Projects:
+- Developing an open-source Learning portal
+- Creating QGIS python plugins
 
 ### Languages + Tools
 
