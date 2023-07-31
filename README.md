@@ -3,24 +3,36 @@
 
   # Howdy, I'm drkOluhv
 
+</div>
 
 ### About Me:
-Just starting to branch my skills from making spreadsheets..
 
-Currently developing an open-source Learning portal and creating QGIS python plugins
+- Just starting to branch my skills from making spreadsheets..
 
-### Languages + Tools
+- Currently developing an open-source Learning portal and creating QGIS python plugins
 
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="25" height="25"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" title="VB" alt="VB" width="25" height="25"/>&nbsp;
-  <image src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="VS" alt="VS" width="25" height="25"/>&nbsp;
-  <image src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="25" height="25"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" title="QGIS" alt="QGIS" width="25" height="25"/>&nbsp;
-                                                                                                                                 </div>
-   
-<!--
- ![Linkedin Badge](https://camo.githubusercontent.com/66827c53581cfee18c55618697d74a3c6167932d3c1980fba2019ef7a3e553b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e)
- ![MySQL Badge](https://camo.githubusercontent.com/1a085b81c0ac63ef70d22ee1a67560c1bdd5c42038ba20d129d89e7de5603953/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drkOluhv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
--->
+<h3 align="left">Where to find me:</h3>
+  <p align="left">
+    <a href="https://linkedin.com/in/caitleny-todd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caitlyn-todd" height="30" width="30" /></a>
+    <a href="https://twitter.com/drkOluhv" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="drkOluhv" height="30" with="30"/></a>
+  </p>
+
+<h3 align:"left">Languages + Tools</h3>
+<p align:="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/></a>
+  <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/></a>
+  <a href="https://www.markdownguide.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/commonmark/commonmark-icon.svg" alt="Markdown" width="40" height="40"/></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank" rel=n"noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" title="VB" alt="VB" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><image src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="VS" alt="VS" width="40" height="40"/></a>
+  <a href="https://github.com/drkOluhv" target="_blank" rel="noreferrer"><image src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://qgis.org/en/site/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" title="QGIS" alt="QGIS" width="40" height="40"/></a>
+  <a href="https://www.goldensoftware.com/products/surfer" target="_blank" rel="noreferrer"><img src="https://www.goldensoftware.com/images/Website_Logos/icon-Surfer.png" alt="surfer" width="40" height="40"/> </a></p>
+    
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drkOluhv&show_icons=true&locale=en&layout=compact" alt="drkOluhv" /></p>
+
+<!--<p><img align="center" src="https://github-readme-stats-1-tau-two.vercel.app/api?username=drkOluhv" alt="drkOluhv" /></p>-->
+
+
+
+                                                                                                                            
