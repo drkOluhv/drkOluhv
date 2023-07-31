@@ -13,6 +13,7 @@
 
 <h3 align="left">Where to find me:</h3>
   <p align="left">
+    <a href="https://www.darkolivegrove.com" target="blank"><img align="center" src="https://www.darkolivegrove.com/assets/android-chrome-512x512.png" alt="caitlyn-todd" height="40" width="40" /></a>
     <a href="https://linkedin.com/in/caitleny-todd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caitlyn-todd" height="30" width="30" /></a>
     <a href="https://twitter.com/drkOluhv" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="drkOluhv" height="30" with="30"/></a>
   </p>
